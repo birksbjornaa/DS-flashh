@@ -1,7 +1,7 @@
 # DS Flashcards
 
 A single-file flashcard web app for revising **Distributed Systems** theory, with
-**178 question/answer cards** generated from the lecture slide decks in the DS folder.
+**217 question/answer cards** — 178 recall-style cards from the lecture slide decks, plus 39 exam-style theory and reasoning cards.
 
 Everything (cards + styling + logic) lives in **`index.html`** — no server, no internet, no dependencies.
 
@@ -17,7 +17,8 @@ Everything (cards + styling + logic) lives in **`index.html`** — no server, no
 FT1 Fault Tolerance Basics · FT2 Reliable Multicast · FT3 Message Ordering ·
 FT4 Consensus · FT5 Atomic Commitment · Synch (Clocks & Snapshots) ·
 Synch (Concurrency, Mutex & Election) · Replication & Consistency · Middleware ·
-Big Distributed Systems · ZooKeeper · IoT & WSN · Past Exam (Jul 2017)
+Big Distributed Systems · ZooKeeper · IoT & WSN · Past Exam (Jul 2017) ·
+**Exam-Style · Theory & Reasoning** *(39 theory/discussion cards modelled on written exam questions)*
 
 ## Get it on your iPhone (Safari)
 Pick whichever is easiest:
